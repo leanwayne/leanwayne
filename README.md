@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandro López (aka Lean Wayne)</h1>
 <h3 align="center">A passionate full Stack developer from Argentina</h3>
 
+- 🔭 I'm currently looking for my first job in IT as a developer!
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://leanLopez.herokuapp.com](http://leanLopez.herokuapp.com)
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leandro lópez catalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro lópez catalini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-l%c3%b3pez-catalini-9628b21a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-l%c3%b3pez-catalini-9628b21a2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

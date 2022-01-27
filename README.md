@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro López (aka Lean Wayne)</h1>
 <h3 align="center">A passionate full Stack developer from Argentina</h3>
 
-- 🔭 I'm currently looking for my first job in IT as a developer!
+- 🔭 I'm currently working at GreenFlame!
 
 - 🌱 I’m currently learning **TypeScript**
 

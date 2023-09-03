@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro López (aka Lean Wayne)</h1>
 <h3 align="center">A passionate full Stack developer from Argentina</h3>
 
-- 🔭 I'm currently working at GreenFlame!
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [http://leanLopez.herokuapp.com](http://leanLopez.herokuapp.com)
-
+- 🔭 I'm currently working at Baufest!
 - 📫 How to reach me **lean_rap50@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
